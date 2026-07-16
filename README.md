@@ -10,48 +10,6 @@
 
 ---
 
-<div align="center">
-
-```text
-
-                         )1\t|-lIli_-[x                     
-                )\/11}?]iI;::"^""""::;i>:l<?__              
-            l~I,^,^^`'`'`.   ....    'i,!",,;I"^            
-          ]<l,'"^.' ' '.  `.      ':`   .. ..::`."I         
-        }-!,^.`:`'.^`.. `.'>...`^'`^^         `:. .`I       
-       ?!,^."'`,!'.''^'`lI;?,`.'"II",'          ''..`,I     
-      :,^''.`^'`>!:,I:",;i>_!:,;II!!I:^`.        .....^>    
-     ``'   `^``""I!_{/xvczcjt|tfr/tfrrt\[~;`.     .'..`"!   
-     ^. .^^,I!!<)jcULOZwwwmZ0LJXYYXzzzXXzuf}~,`.  ....''I   
-    :"`'`^^";I_\vUCL0ZZZZZ0QCJJJUJUUJJJCCYvr/{~:'.'....`^]  
-    ^``''.''^i|nXJJCLQ0OOQCUXYYUUYYYUUUUUXcvxf(?:.'...`':]  
-    "`.'`'``l{nXYJCLLL0QQLLLLCCCUCCLLQQQQCUzvxf(>'.. ..'!   
-    `"'.`''^]ucx]]]-;^^;>]/JO00LLQCzn1{(tfnxrjjt[^...''^<   
-    ,``'. ^)vt<:^":;;:,,;I<fXJL0LCv{-i;^``"^`":_)+.... ^<   
-    ^'`' `{uu]_}/nvuxrf||(|fcC0m0Yurrrjjxnx/1<;,?]^ .''`<   
-   _"`...:fzcrj/[_?i"li|?{|fnYCCYuvY/1\++}]1/((?[]" .'.^<   
- j1{};'.`IjUJXuf\()1[[{1)|truXJJYvcUc/|}?{\]+]1|1]` ''^i]   
-v/{/un]^">nJCJUUXzcvnxxxnuvcYJCLXzzYCCUYXXzcunnr\]'',}j)\v  
-//)xYu\>:>rUCJCCJJJUYYXzzzXvvzYUzccXL0Z0OZZOQLUzj]`<uJJXtuc 
-]r/rx}_]/]fXJUJUUJJCJJXnrvuJXXUCYcvvCZwOOZOO0LUzf_?jJ0CXuX  
-  cfxt?{\r[uXYzzUUUJYvf\f|_fuvzXvrjuXL0ZZ000LJXu|\YcXCYXX   
-   Xurvcur]\xcXXYUYYXcvx\[_]({}(1]}rXJQ000LJUzcj-nXXJYUz    
-    $Yvnnj]](juucYYYzx/?l;:l~}[<>iI~)jzJCJJYXut[/XYYYU/     
-      nunxu+[1)tncu)<l!_??}))|\\|1}[_!>}nXzvnf{[jcXYY       
-           +?[{1\r\~~?+~-[[[}}{1)1{]]{_~|vvrt1[1{           
-            -?]}|tt|tjjrf//tfjrxnnnuvvu/jnf/1[(f            
-            f(+_?)|/tjrjf/(1-~?1|rczcunftf)}_f$             
-            xr\}l++[/nuvzzznffrxCQLCUXvf{[+]|C              
-            uvrj/}i;l_|ttr/j/|(rvUXccn\_<[\/x               
-          I!L0nrft|}_!,;l>+]]}{)]{[->!+(frrjc               
-        :;:;bhJxrjf\(1{}_il;,::;I>_1/fruvvnfU+              
-
-
-
-```
-
-</div>
-
 ---
 
 ## 💻 Terminal
