@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Saad Khan</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Saad</h1>
 
 <p align="center">
   <b>Frontend Developer • Flutter Developer • Full Stack Learner</b>
