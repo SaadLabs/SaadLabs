@@ -93,7 +93,7 @@ Become a Full Stack Software Engineer
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,nodejs,express,mongodb,firebase,git,github,vscode,java,cpp,python"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,nodejs,express,mongodb,git,github,vscode,java,cpp,python"/>
 
 </p>
 
