@@ -89,32 +89,6 @@ Become a Full Stack Software Engineer
 
 ---
 
-# 🏆 Featured Projects
-
-### 🚀 GearGo
-
-A Flutter-based electronics shopping application.
-
----
-
-### 🍽 Recipe Finder
-
-Search recipes using TheMealDB API.
-
----
-
-### 🏥 Hospital Management System
-
-Java + JavaFX desktop application.
-
----
-
-### 🌳 Binary Tree Visualizer
-
-Interactive Data Structures visualization in C++.
-
----
-
 # 📜 Certificates
 
 🏆 Meta Front-End Development
