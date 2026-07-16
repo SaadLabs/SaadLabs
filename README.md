@@ -125,7 +125,7 @@ Become a Full Stack Software Engineer
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadLabs&theme=tokyo-night"/>
 
 </p>
 
@@ -207,6 +207,6 @@ Interactive Data Structures visualization in C++.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Saad&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=SaadLabs&color=blue"/>
 
 </p>
