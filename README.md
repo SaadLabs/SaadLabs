@@ -1,133 +1,88 @@
-<h1 align="center">Hi 👋, I'm Muhammad Saad</h1>
+<div align="center">
 
-<p align="center">
-  <b>Frontend Developer • Flutter Developer • Full Stack Learner</b>
-</p>
+<!-- Player Avatar: Replace the URL with a link to your real, professional headshot -->
+<img src="https://via.placeholder.com/150/0D1117/FFFFFF?text=INSERT+PHOTO" width="150" style="border-radius: 50%; border: 2px solid #58A6FF;" alt="Player Avatar" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=BS+Information+Technology+Student;Flutter+Developer;React+Developer;Building+Useful+Projects;Always+Learning+Something+New" />
-</p>
+# 🎮 PLAYER 1: MUHAMMAD SAAD
 
----
+*“Writing code that grows, one commit at a time.”*
 
----
-
-## 💻 Terminal
-
-```bash
-saad@github:~$ whoami
-Muhammad Saad Khan
-
-saad@github:~$ role
-Frontend Developer
-Flutter Developer
-
-saad@github:~$ education
-BS Information Technology
-
-saad@github:~$ currently_learning
-Flutter
-React
-Django
-REST APIs
-
-saad@github:~$ currently_building
-GearGo
-Recipe Finder
-
-saad@github:~$ interests
-Mobile Apps
-Web Development
-Open Source
-UI/UX
-
-saad@github:~$ goal
-Become a Full Stack Software Engineer
-```
+</div>
 
 ---
 
-# 🚀 Tech Stack
+### 📜 STATUS MENU
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,nodejs,express,mongodb,git,github,vscode,java,cpp,python"/>
-
-</p>
-
----
-
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SaadLabs&theme=tokyonight"/>
-
-</p>
+> **CLASS:** Full-Stack Web Developer
+> **BASE OF OPERATIONS:** Islamabad, Pakistan
+> **CURRENT LEVEL:** Undergraduate (BS IT @ Quaid-i-Azam University)
+> **GUILDS & FACTIONS:** Co-Founder @ **KRUSONIX** | Content Creator @ **The Coding Garden**
 
 ---
 
-# 📈 Contribution Graph
+### ⚔️ SKILL TREE
 
-<p align="center">
+**[ MAX LEVEL ] : Core Front-End**
+`HTML5` `CSS3` `Vanilla JavaScript`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadLabs&theme=tokyo-night"/>
+**[ ADEPT ] : Full-Stack & Architecture**
+`MERN Stack` `PHP` `MySQL` `MongoDB`
 
-</p>
-
----
-
-# 📜 Certificates
-
-🏆 Meta Front-End Development
-
-🏆 Google Generative AI
-
-🏆 Google Responsible AI
-
-🏆 Google Large Language Models
-
-🏆 Google Project Management
+**[ EQUIPPED ] : Software & Core Logic**
+`Java` `JavaFX` `C++`
 
 ---
 
-# 🌱 Current Focus
+### 🛡️ ACTIVE LOADOUT & HARDWARE
 
-✔ Flutter
-
-✔ React
-
-✔ Django
-
-✔ Full Stack Development
-
-✔ Open Source
+*Every good player needs a reliable rig for development and rendering.*
+* **CPU:** Intel Core i7-4770
+* **GPU:** NVIDIA GeForce GTX 1660 Super
+* **Mobile Comm-Link:** Custom Realme Note 60
+* **Downtime Environments:** *Counter-Strike 2, Dota 2, Red Dead Redemption 2, Hogwarts Legacy, The Last of Us Part 1*
 
 ---
 
-# 📫 Connect With Me
+### 🗺️ QUEST LOG (HIGHLIGHTED MISSIONS)
 
-<p align="center">
+**Quest: Naan Now**
+> **Objective:** Engineer a seamless, full-stack food delivery web application.
+> **Execution:** Deployed dynamic components, multi-tier responsive navigation, and interactive category carousels.
+> **XP Gained:** Advanced MERN Architecture, UI/UX Optimization.
 
-<a href="https://linkedin.com/in/muhammad-saad2004">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+**Quest: GearGo**
+> **Objective:** Architect a functional e-commerce ecosystem.
+> **Execution:** Integrated user profiles, secure shopping carts, and comprehensive administrative capabilities.
+> **XP Gained:** Database Management, Session Handling.
 
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+**Quest: Hospital Management System**
+> **Objective:** Build a robust, offline management tool for medical staff.
+> **Execution:** Utilized Java and JavaFX to manage patient registrations and dynamic scheduling modules.
+> **XP Gained:** Object-Oriented Programming, Desktop Application Deployment.
 
-<a href="mailto:s4saad2004@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+**Quest: Binary Search Tree Visualizer**
+> **Objective:** Demystify algorithmic data structure traversals.
+> **Execution:** Developed an interactive graphical tool for educational demonstration.
+> **XP Gained:** Algorithm Logic, Visual Rendering.
 
-</p>
+**Quest: Al Mehran Events Management**
+> **Objective:** Deliver a digital storefront for a local enterprise.
+> **Execution:** Crafted a fully responsive service website with optimized card layouts and project documentation.
+> **XP Gained:** Client Requirements, Responsive Design.
 
 ---
 
-<p align="center">
+### 🤝 CO-OP MULTIPLAYER
 
-<img src="https://komarev.com/ghpvc/?username=SaadLabs&color=blue"/>
+Great campaigns are rarely finished solo. Proud to be building the future of the web alongside my **KRUSONIX** squad: **Khizar, Rafay, and Umer**. 
 
-</p>
+---
+
+<div align="center">
+  <p><b>Ready to initiate a new quest?</b></p>
+  <a href="mailto:YOUR_EMAIL@example.com"><code>[ INITIATE CONTACT ]</code></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><code>[ VIEW LINKEDIN ]</code></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://instagram.com/YOUR_INSTAGRAM"><code>[ THE CODING GARDEN ]</code></a>
+</div>
