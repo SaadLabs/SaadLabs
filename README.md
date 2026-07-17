@@ -5,7 +5,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Muhammad+Saad+Khan;Full+Stack+Developer;Flutter+%7C+Mobile+App+Developer;Open+Source+Learner" alt="Typing SVG" />
+# Muhammad Saad
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Flutter+Developer;Open+Source+Learner;Cloud+Enthusiast;AI+Explorer" alt="Typing SVG" />
 
 <br/>
 
