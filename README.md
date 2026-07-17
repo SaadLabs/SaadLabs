@@ -101,9 +101,6 @@ I'm a Full Stack and Flutter developer currently studying IT and building real, 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaadLabs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=22D3EE&text_color=C9D1D9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadLabs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadLabs&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=22D3EE&fire=38BDF8" />
