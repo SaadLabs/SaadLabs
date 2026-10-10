@@ -18,7 +18,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=firefox&logoColor=white)](https://msaad-sigma.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-saad2004)
-[![Email](https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-s4saad2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s4saad2004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaadLabs)
 
 </div>
